@@ -69,7 +69,8 @@ public class ScreenSlidePageFragment extends Fragment {
         fragment.setArguments(bundle);
         return fragment;
     }
-
+    /**
+     * huyuyuy**/
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
